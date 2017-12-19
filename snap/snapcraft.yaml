@@ -1,15 +1,22 @@
-name: my-snap-name # you probably want to 'snapcraft register <name>'
-version: '0.1' # just for humans, typically '1.2+git' or '1.3.2'
-summary: Single-line elevator pitch for your amazing snap # 79 char long summary
+name: prettier
+version: '1.9.2'
+summary: Prettier is an opinionated code formatter
 description: |
-  This is my-snap's description. You have a paragraph or two to tell the
-  most important story about your snap. Keep it under 100 words though,
-  we live in tweetspace and your description wants to look good in the snap
-  store.
+  Prettier is an opinionated code formatter. It enforces a consistent style
+  by parsing your code and re-printing it with its own rules that take the
+  maximum line length into account, wrapping code when necessary.
 
-confinement: devmode # use 'strict' once you have the right plugs and slots
+grade: devel
+confinement: strict
+
+apps:
+  prettier:
+    command: bin/prettier
+    plugs: [home]
 
 parts:
-  my-part:
-    # See 'snapcraft plugins'
-    plugin: nil
+  prettier:
+    source: git://github.com/prettier/prettier.git
+    source-tag: '1.9.2'
+    plugin: nodejs
+    node-engine: '8.9.3'
