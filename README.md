@@ -13,8 +13,6 @@ distributions.</p>
 </p>
 -->
 
-![Screenshot](./prettier_snap_screenshot.png)
-
 ## Install
 
     sudo apt install snapd-xdg-open
@@ -22,9 +20,7 @@ distributions.</p>
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+![Prettier](screenshot.png?raw=true "Prettier")
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
@@ -41,13 +37,13 @@ upstream so [Prettier] can authoritatively publish future releases.
   - [X] Update logos and references to `[Project]` and `[my-snap-name]`
   - [X] Create a snap that runs in `devmode`
   - [X] Register the snap in the store, **using the preferred upstream name**
-  - [ ] Add a screenshot to this `README.md`
+  - [X] Add a screenshot to this `README.md`
   - [X] Publish the `devmode` snap in the Snap store edge channel
   - [X] Add install instructions to this `README.md`
   - [ ] Update snap store metadata, icons and screenshots
-  - [ ] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
-  - [ ] Publish the confined snap in the Snap store beta channel
-  - [ ] Update the install instructions in this `README.md`
+  - [X] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
+  - [X] Publish the confined snap in the Snap store beta channel
+  - [X] Update the install instructions in this `README.md`
   - [ ] Post a call for testing on the [Snapcraft Forum](https://forum.snapcraft.io) - [link]()
   - [ ] Ask a [Snapcrafters admin](https://github.com/orgs/snapcrafters/people?query=%20role%3Aowner) to fork your repo into github.com/snapcrafters, transfer the snap name from you to snapcrafters, and configure the repo for automatic publishing into edge on commit
   - [ ] Add the provided Snapcraft build badge to this `README.md`
