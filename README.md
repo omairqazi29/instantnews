@@ -15,7 +15,7 @@ distributions.</p>
 
 ## Install
 
-    sudo snap install tably-snap --channel=beta
+    sudo snap install tably-snap --channel=stable
     tably
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
