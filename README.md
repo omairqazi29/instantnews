@@ -18,7 +18,7 @@
 
 <!-- Uncomment and modify this when you have a screenshot
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
----
+-->
 
 ## Remaining tasks
 
