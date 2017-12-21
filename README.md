@@ -73,3 +73,5 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 | :---: |
 | [Upstream Name](https://github.com/upstreamname) |
 -->
+## Screenshots
+![Alt text](/relative/screenshots/snapcraft1.png?raw=true "registered snap name")
