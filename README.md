@@ -14,7 +14,7 @@
 
     sudo snap install omairqazi-instantnews
     export IN_API_KEY="<YOUR_API_TOKEN>"
-get your api key from ([newsapi.org]https://newsapi.org)
+get your api key from ([newsapi.org](https://newsapi.org))
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
