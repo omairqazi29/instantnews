@@ -2,7 +2,7 @@
   omairqazi-instantnews
 </h1>
 
-<p align="center"><b>This is a snap for instantnews</b>, <i>"Get live news instantly</i><"/p>
+<p align="center"><b>This is a snap for instantnews</b>, <i>"Get live news instantly"</i></p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
