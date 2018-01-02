@@ -22,6 +22,9 @@ get your api key from newsapi.org
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
 -->
 
+## Screenshots
+![registered snap name](https://github.com/omairqazi/omairqazi-instantnews/blob/master/screenshots/snapcraft1.png)
+
 ## Remaining tasks
 
 Snapcrafters ([join us](https://forum.snapcraft.io/t/join-snapcrafters/1325)) 
@@ -58,13 +61,12 @@ upstream so [Project] can authoritatively publish future releases.
 
 If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft.io).
 
-<!-- 
+
 ## The Snapcrafters
 
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![Qazi Omair Ahmed](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/omairqazi/) |
 | :---: |
-| [Your Name](https://github.com/yourname/) |
---> 
+| [Qazi Omair Ahmed](https://github.com/omairqazi/) |
 
 <!-- Uncomment and modify this when you have upstream contacts
 ## Upstream
@@ -73,5 +75,3 @@ If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft
 | :---: |
 | [Upstream Name](https://github.com/upstreamname) |
 -->
-## Screenshots
-![registered snap name](https://github.com/omairqazi/omairqazi-instantnews/blob/master/screenshots/snapcraft1.png)
