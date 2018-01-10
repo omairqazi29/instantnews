@@ -22,6 +22,8 @@ get your api key from ([newsapi.org](https://newsapi.org))
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
 -->
 
+<noscript><a href="https://liberapay.com/omairqazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
 ## Screenshots
 ![registered snap name](https://github.com/omairqazi/omairqazi-instantnews/blob/master/screenshots/snapcraft1.png)
 
