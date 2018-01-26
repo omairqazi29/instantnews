@@ -18,14 +18,7 @@ get your api key from ([newsapi.org](https://newsapi.org))
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
-
-<noscript><a href="https://liberapay.com/omairqazi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-## Screenshots
-![registered snap name](https://github.com/omairqazi/omairqazi-instantnews/blob/master/screenshots/snapcraft1.png)
+![omairqazi-instantnews](screenshot1.png?raw=true "omairqazi-instantnews")
 
 ## Remaining tasks
 
