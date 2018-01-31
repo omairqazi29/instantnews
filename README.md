@@ -44,7 +44,7 @@ upstream so [Prettier] can authoritatively publish future releases.
   - [X] Convert the snap to `strict` confinement, or `classic` confinement if it qualifies
   - [X] Publish the confined snap in the Snap store beta channel
   - [X] Update the install instructions in this `README.md`
-  - [ ] Post a call for testing on the [Snapcraft Forum](https://forum.snapcraft.io) - [link]()
+  - [X] Post a call for testing on the [Snapcraft Forum](https://forum.snapcraft.io) - [link](https://forum.snapcraft.io/t/call-for-testing-prettier/3244)
   - [ ] Ask a [Snapcrafters admin](https://github.com/orgs/snapcrafters/people?query=%20role%3Aowner) to fork your repo into github.com/snapcrafters, transfer the snap name from you to snapcrafters, and configure the repo for automatic publishing into edge on commit
   - [ ] Add the provided Snapcraft build badge to this `README.md`
   - [ ] Publish the snap in the Snap store stable channel
