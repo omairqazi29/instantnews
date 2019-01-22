@@ -18,7 +18,7 @@ get your api key from ([newsapi.org](https://newsapi.org))
 
 ([Don't have snapd installed?](https://snapcraft.io/docs/core/install))
 
-![omairqazi-instantnews](screenshot1.png?raw=true "omairqazi-instantnews")
+![omairqazi-instantnews](screenshots/screenshot.png?raw=true "omairqazi-instantnews")
 
 ## Remaining tasks
 
