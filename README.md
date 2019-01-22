@@ -1,4 +1,6 @@
 <h1 align="center">
+  <img src="logo.jpeg" alt="instantnews" width="100px" height="100px">
+  <br />
   omairqazi-instantnews
 </h1>
 
